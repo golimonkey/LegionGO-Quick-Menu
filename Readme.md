@@ -37,24 +37,14 @@ Open Settings and enable Start with Windows.
 The program must remain running in the background for the Legion buttons to work.
 
 # Features
-Quick Menu button support
-Configurable Legion Space button
-Touch and controller navigation
-Device and controller battery percentages
-Brightness and volume
-Resolution and refresh rate
-Lenovo thermal modes
-Smart and Full Speed fan modes
-Controller profiles
-Low CPU usage while hidden
-Controls
-Input	Action
-D-pad	Navigate
-A	Select
-B	Close
-LB / RB	Change tabs
-Quick Menu button	Open or close
-F12	Open or close
+Thermal Profile Selection
+Controller Profile Selection
+Brightness and Volume sliders
+Resolution and Refresh Rate switcher
+Fan Mode
+Shortcuts
+and more...
+
 
 #Important
 Do not move or rename Lenovo DLL files.
@@ -62,8 +52,7 @@ Lenovo DLLs are not included in this repository.
 The application must currently run from the Legion Space folder.
 Only Legion Space 1.3.4.9 has been tested.
 Other Legion Space versions may fail or behave differently.
+
 Disclaimer
-
 This is an unofficial community project and is not affiliated with Lenovo.
-
 Lenovo, Legion, Legion Go, and Legion Space are trademarks of Lenovo.
