@@ -2,6 +2,7 @@
 A lightweight native quick settings overlay for the Lenovo Legion Go. Default Lenovo programs use 250MB+, this one uses ~60MB and around 40MB while in background.
 
 It supports touch, mouse, keyboard, and the built-in controller, and can open directly from the physical Quick Menu button.
+
 <img width="1317" height="2160" alt="main" src="https://github.com/user-attachments/assets/09b1976f-f323-4dc9-9c4c-0c948e18b026" />
 
 [!WARNING]
@@ -13,6 +14,7 @@ Use it entirely at your own risk. I am not responsible for data loss, hardware d
 
 
 https://github.com/user-attachments/assets/c3f7d23c-7113-488d-b3f7-dc54bb49c575
+
 # Compatibility
 
 Tested only with:
