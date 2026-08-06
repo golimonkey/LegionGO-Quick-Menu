@@ -51,7 +51,7 @@ The application must currently run from the Legion Space folder.
 Only Legion Space 1.3.4.9 has been tested.
 Other Legion Space versions may fail or behave differently.
 
-#Download
+# Download
 https://github.com/golimonkey/LegionGO-Quick-Menu/releases
 
 Disclaimer
